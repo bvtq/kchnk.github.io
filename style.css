@@ -86,7 +86,6 @@ img {border: 10px solid grey;
     transition: 0.5s;
 }
 
-}
 
 .story {
     display: flex;
@@ -97,8 +96,9 @@ img {border: 10px solid grey;
 .desc {
     text-align: center;
     margin: 50px 0;
-    color: rgb(34, 77, 77);
+    color: rgb(0, 0, 0);
     font-weight: bold;
+    
 }
 
   
